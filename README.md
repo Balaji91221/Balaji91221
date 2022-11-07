@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CA3FF7&width=435&lines=Hi+there!+This+is+Balaji)](https://git.io/typing-svg)
 
-**Balaji91221/Balaji91221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
