@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F734A5&width=435&lines=Hi+there!+%F0%9F%91%8B+This+is+Balaji+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F718BE&width=600&height=60&lines=Hi%2C+there%F0%9F%91%8B+This+is+Balaji+here!)](https://git.io/typing-svg)
+[__INTRO ](__intro )__
+-------------------------------------------------------------------------
 
-
-
-Here are some ideas to get you started:
-
+A passionate young developer . I'm pursuing B.Tech in computer science from VIT-AP.
+ 
 - 🔭 I’m currently working on react js
 - 🌱 I’m currently learning flask
 - 👯 I’m looking to collaborate on ...
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+
