@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F718BE&width=600&height=60&lines=Hi%2C+there%F0%9F%91%8B+This+is+Balaji+here!)](https://git.io/typing-svg)
+
 [__INTRO ](__intro )__
 -------------------------------------------------------------------------
 
