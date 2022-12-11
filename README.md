@@ -3,7 +3,7 @@
 [__INTRO ](__intro )__
 -----------------------------------------------------------------
 
-<p align="center">A passionate young developer . I'm pursuing B.Tech in computer science from VIT-AP.</p>
+<p >A passionate young developer . I'm pursuing B.Tech in computer science from VIT-AP.</p>
 
 
 
