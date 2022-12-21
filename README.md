@@ -14,7 +14,6 @@ A passionate young developer . I'm pursuing B.Tech in computer science from VIT-
 
 - 💬 Ask me about **React**(JSX is combination of HTML and JAVASCRIPT to use in React)
 - 📫 How to reach me kbalaji15j@gmail.com
-- 
 - ⚡ Fun fact: Do you know JSX means {JAVA SCRIPT XML}
 
 ## \_\_contact__
