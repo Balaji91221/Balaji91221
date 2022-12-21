@@ -12,9 +12,10 @@ A passionate young developer . I'm pursuing B.Tech in computer science from VIT-
 
 - 👯 I’m looking to collaborate on **  real time projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**(JSX is combination of HTML and JAVASCRIPT to use in React)
 - 📫 How to reach me kbalaji15j@gmail.com
-- ⚡ Fun fact: I think I am funny
+- 
+- ⚡ Fun fact: Do you know JSX means {JAVA SCRIPT XML}
 
 ## \_\_contact__
 [![Linkedin Badge](https://img.shields.io/badge/-KelavathBalajiNaik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kelavath-balaji-naik-9952761a7/)](https://www.linkedin.com/in/kelavath-balaji-naik-9952761a7/)
