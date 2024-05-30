@@ -51,14 +51,14 @@
 <p align="center">
 <a href="https://github.com/Balaji91221">
   <!-- https://github-readme-activity-graph.vercel.app/graph?username=balaji91221&bg_color=f2edf0&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)>
- <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Aarsh30&theme=github-compact"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aarsh30&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarsh30&theme=algolia"/>
+ <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&theme=algolia"/>
 </a>
 
 </p>
 
-![logo](https://github.com/Aarsh30/Aarsh30/blob/main/snake%20gif.gif)
+![logo](https://github.com/Balaji91221/blob/main/snake%20gif.gif)
 <!--[![Aarsh30's GitHub | Languages Over Time](https://stats.quine.sh/Aarsh30/languages-over-time?theme=light)](https://quine.sh)
 --->
 
