@@ -26,21 +26,20 @@
 </p>
 
 
-- 📜 For more details, visit :  <a href = "https://aarsh-patel.vercel.app/" target ="blank">  <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
+- 📜 For more details, visit :  <a href = "https://kelavathbalaji91221github-io.vercel.app/" target ="blank">  <img align ="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
     </a>
 
 ### Want To Contact Me? 📱
 
 <p align="center">
-     <a href ="https://www.youtube.com/channel/UC8lWeV0xePxysVetCBGvLzA" target="blank">
-  <img align="center" alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC8lWeV0xePxysVetCBGvLzA?style=for-the-badge&logo=youtube&logoColor=red">
+  
 
-</a>
-    <a href="https://www.linkedin.com/in/aarshpatel30/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aarsh30"/>
+
+    <a href="https://www.linkedin.com/in/kelavathbalajinaik/" target="blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kelavath"/>
     </a>
-    <a href="https://www.instagram.com/_aarsh_patel/" target="blank">
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Aarsh30" />
+    <a href="" target="blank">
+        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
     </a>
     <a href="https://leetcode.com/Aarsh_Patel/" target="blank">
         <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAarsh_Patel&logo=leetcode&logoColor=yellow" alt="Aarsh30"/>
