@@ -12,9 +12,21 @@
     <img src="https://komarev.com/ghpvc/?username=Balaji91221&color=blueviolet&style=for-the-badge" />
 </p>
 
+---
+
 ### About Me
 
+<div align="center">
+
+![Developer](https://img.shields.io/badge/Developer-FullStack-blue?style=for-the-badge&logo=appveyor)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge&logo=appveyor)
+![Learner](https://img.shields.io/badge/Learner-Forever-orange?style=for-the-badge&logo=appveyor)
+
+</div>
+
 I am a Full Stack Developer and an enthusiastic Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in Full Stack Web Development. My passion lies in building impactful and innovative solutions by leveraging cutting-edge technologies.
+
+---
 
 ### Had Learn and Fun with it 📈
 
