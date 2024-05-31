@@ -46,7 +46,7 @@
 <p align="center">
     <a href="https://github.com/Balaji91221">
         <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia"/>
     </a>
 </p>
