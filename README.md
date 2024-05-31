@@ -16,7 +16,7 @@
 
 - 🔭 Have played around with:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,React,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,express,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,express,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12" />
 </p>
 
 - 📜 For more details, visit:  
@@ -47,7 +47,7 @@
     <a href="https://github.com/Balaji91221">
         <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia"/>
     </a>
 </p>
 
