@@ -16,25 +16,25 @@
 
 - 🔭 Have played around with:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,express,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel&perline=12" />
 </p>
 
 - 📜 For more details, visit:  
     <a href="https://kelavathbalaji91221github-io.vercel.app/" target="_blank">
-        <img align="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfilio&labelColor=blue&color=white">
+        <img align="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfolio&labelColor=blue&color=white">
     </a>
 
 ### Want To Contact Me? 📱
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kelavathbalajinaik/" target="blank">
+    <a href="https://www.linkedin.com/in/kelavathbalajinaik/" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kelavath"/>
     </a>
-    <a href="#" target="blank">
+    <a href="#" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
     </a>
-    <a href="https://leetcode.com/u/kelavathbalajinaik/" target="blank">
-      <img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="Kelavath Balaji Naik"/>
+    <a href="https://leetcode.com/u/kelavathbalajinaik/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="Kelavath Balaji Naik"/>
     </a>
 </p>
 
@@ -45,13 +45,11 @@
 </p>
 <p align="center">
     <a href="https://github.com/Balaji91221">
-        <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
-        
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&theme=algolia"/>
+        <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
     </a>
 </p>
-
-
 
 ### Random Quote 💬
 
