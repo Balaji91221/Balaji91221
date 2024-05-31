@@ -34,7 +34,7 @@
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
     </a>
     <a href="https://leetcode.com/u/kelavathbalajinaik/" target="blank">
-     <img https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow  />
+      <img align="center" src="https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="Kelavath Balaji Naik"/>
     </a>
 </p>
 
