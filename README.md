@@ -9,14 +9,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20" />
 </p>
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aarsh30&color=blueviolet&style=for-the-badge" />
+    <img src="https://komarev.com/ghpvc/?username=Balaji91221&color=blueviolet&style=for-the-badge" />
 </p>
 
 ### Had Learn and Fun with it 📈
 
 - 🔭 Have played around with:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=docker,vim,arduino,aws,azure,bash,bootstrap,cpp,cassandra,py,discord,express,git,github,html,css,idea,gcp,java,js,linux,mongodb,mysql,nodejs,postgres,postman,powershell,react,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,React,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,express,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel,&perline=12" />
 </p>
 
 - 📜 For more details, visit:  
@@ -34,7 +34,7 @@
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
     </a>
     <a href="https://leetcode.com/u/kelavathbalajinaik/" target="blank">
-       <img align="center" src="https://img.shields.io/badge/Solved-167+-problems-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="Kelavath"/>
+     <img https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow  />
     </a>
 </p>
 
