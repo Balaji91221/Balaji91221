@@ -12,6 +12,10 @@
     <img src="https://komarev.com/ghpvc/?username=Balaji91221&color=blueviolet&style=for-the-badge" />
 </p>
 
+### About Me
+
+I am a Full Stack Developer and an enthusiastic Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in Full Stack Web Development. My passion lies in building impactful and innovative solutions by leveraging cutting-edge technologies.
+
 ### Had Learn and Fun with it 📈
 
 - 🔭 Have played around with:
