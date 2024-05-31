@@ -33,7 +33,7 @@
     <a href="#" target="blank">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
     </a>
-    <a href="https://leetcode.com/Aarsh_Patel/" target="blank">
+    <a href="https://leetcode.com/u/kelavathbalajinaik/" target="blank">
         <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FAarsh_Patel&logo=leetcode&logoColor=yellow" alt="Aarsh30"/>
     </a>
 </p>
@@ -51,6 +51,10 @@
     </a>
 </p>
 
+
+
+### Random Quote 💬
+
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=F718BE&width=600&height=60&lines=Hi%2C+there%F0%9F%91%8B+Balaji+here!" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote"/>
 </p>
