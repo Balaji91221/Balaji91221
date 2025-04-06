@@ -1,4 +1,11 @@
+<div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px;">
+  <!-- Add tech icons using shields.io or similar services -->
+  <!-- Add circuit board SVG pattern as background -->
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=190&section=header&text=Welcome%20To%20My%20Profile&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" alt="Welcome Banner"/>
+</div>
+</div>
 <h1 align="center">
   <span style="background: linear-gradient(90deg, #8B5CF6 0%, #D946EF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
     Kelavath Balaji Naik | Professional Developer
