@@ -1,74 +1,144 @@
-<p align="center">
-    <img src="12.png" width="1000">
-</p>
-<h2 align="center">Hey There, Kelavath Balaji Naik 👋</h2>
-<h3 align="center">Developer 👨‍💻, Open Source Contributor 👨‍👩‍👧‍👦, Learner</h3>
 
-<p align="center">
-    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif" />
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there!...;Great+to+have+you+here!🖤&center=true&size=20" />
-</p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Balaji91221&color=blueviolet&style=for-the-badge" />
-</p>
-
----
-
-### About Me
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #8B5CF6 0%, #D946EF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Kelavath Balaji Naik | Professional Developer
+  </span>
+</h1>
 
 <div align="center">
-
-![Developer](https://img.shields.io/badge/Developer-FullStack-blue?style=for-the-badge&logo=appveyor)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Enthusiast-brightgreen?style=for-the-badge&logo=appveyor)
-![Learner](https://img.shields.io/badge/Learner-Forever-orange?style=for-the-badge&logo=appveyor)
-
+  <a href="https://www.linkedin.com/in/kelavathbalajinaik/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://kelavathbalaji91221github-io.vercel.app/">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=8B5CF6" alt="Portfolio">
+  </a>
+  <a href="https://leetcode.com/u/kelavathbalajinaik/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=FFA116" alt="LeetCode">
+  </a>
+  <a href="mailto:kelavathbalaji@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Balaji91221&style=for-the-badge&color=8B5CF6" alt="Profile Views">
 </div>
 
-I am a Full Stack Developer and an enthusiastic Computer Science student specializing in Artificial Intelligence and Machine Learning, with a keen interest in Full Stack Web Development. My passion lies in building impactful and innovative solutions by leveraging cutting-edge technologies.
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" height="400" alt="Skills Animation">
+</div>
 
----
 
-### Had Learn and Fun with it 📈
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-- 🔭 Have played around with:
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mongodb,express,nodejs,docker,arduino,aws,bash,bootstrap,discord,git,github,linux,mysql,postgres,postman,powershell,redis,threejs,sass,tailwind,vscode,raspberrypi,cloudflare,php,r,vercel&perline=12" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
-- 📜 For more details, visit:  
-    <a href="https://kelavathbalaji91221github-io.vercel.app/" target="_blank">
-        <img align="center" alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Faarsh-patel.vercel.app%2F&logo=portfolio&labelColor=blue&color=white">
-    </a>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-### Want To Contact Me? 📱
+<div style="background: linear-gradient(90deg, rgba(147,39,143,0.1) 0%, rgba(234,172,232,0.1) 100%); padding: 16px; border-radius: 12px;">
+  <p>I'm a passionate Full Stack Developer with a strong foundation in building robust and scalable applications. I enjoy solving complex problems and creating efficient solutions that make a difference.</p>
 
-<p align="center">
-    <a href="https://www.linkedin.com/in/kelavathbalajinaik/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kelavath"/>
-    </a>
-    <a href="#" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Kelavath" />
-    </a>
-    <a href="https://leetcode.com/u/kelavathbalajinaik/" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FKelavath%20Balaji%20Naik%2Fcn%2F&logo=leetcode&logoColor=yellow" alt="Kelavath Balaji Naik"/>
-    </a>
-</p>
+  <ul>
+    <li>🔭 Currently working on enterprise-level web applications</li>
+    <li>🌱 Learning advanced system design and cloud architecture</li>
+    <li>👯 Looking to collaborate on innovative open-source projects</li>
+    <li>💬 Ask me about JavaScript, React, Node.js, or software architecture</li>
+    <li>⚡ Fun fact: I love contributing to open-source projects in my free time</li>
+  </ul>
+</div>
 
-### Some Statistics 📈📱
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
 
-<p align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji91221&" alt="Kelavath Balaji Naik" />
-</p>
-<p align="center">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
+
+<div align="center">
+  <!-- Frontend -->
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&borderRadius=20px" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&borderRadius=20px" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=20px" alt="JavaScript">
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&borderRadius=20px" alt="React">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&borderRadius=20px" alt="Next.js">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&borderRadius=20px" alt="TypeScript">
+    <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&borderRadius=20px" alt="SASS">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&borderRadius=20px" alt="Tailwind CSS">
+    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&borderRadius=20px" alt="Redux">
+  </p>
+  
+  <!-- Backend -->
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&borderRadius=20px" alt="Node.js">
+    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&borderRadius=20px" alt="Express.js">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&borderRadius=20px" alt="Java">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&borderRadius=20px" alt="Python">
+    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&borderRadius=20px" alt="PHP">
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white&borderRadius=20px" alt="GraphQL">
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&borderRadius=20px" alt="Docker">
+  </p>
+  
+  <!-- Database & Cloud -->
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=20px" alt="MongoDB">
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&borderRadius=20px" alt="PostgreSQL">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=20px" alt="MySQL">
+    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white&borderRadius=20px" alt="Redis">
+    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&borderRadius=20px" alt="AWS">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=20px" alt="Firebase">
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=20px" alt="Vercel">
+  </p>
+  
+  <!-- Tools & Others -->
+  <p>
+    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&borderRadius=20px" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&borderRadius=20px" alt="GitHub">
+    <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=20px" alt="VS Code">
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&borderRadius=20px" alt="Figma">
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&borderRadius=20px" alt="Linux">
+    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&borderRadius=20px" alt="Postman">
+    <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black&borderRadius=20px" alt="Webpack">
+    <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white&borderRadius=20px" alt="Jira">
+  </p>
+</div>
+
+
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
+
+<div style="background: linear-gradient(90deg, rgba(139, 92, 246, 0.1) 0%, rgba(217, 70, 239, 0.1) 100%); border-radius: 12px; padding: 20px; margin-bottom: 20px;">
+  <div align="center">
     <a href="https://github.com/Balaji91221">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=algolia"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&theme=algolia"/>
-        <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=github-compact"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6&icon_color=D946EF" alt="Balaji's GitHub stats"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6" alt="Balaji's top languages"/>
     </a>
-</p>
+  </div>
 
-### Random Quote 💬
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji91221&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&fire=D946EF&currStreakNum=8B5CF6&currStreakLabel=D946EF" alt="GitHub Streak">
+  </p>
 
-<p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" alt="Random Quote"/>
-</p>
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Balaji91221&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
+</div>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Daily Quote
+
+<div align="center" style="background: linear-gradient(90deg, rgba(139, 92, 246, 0.1) 0%, rgba(217, 70, 239, 0.1) 100%); border-radius: 12px; padding: 20px; margin: 0 auto; max-width: 600px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
+  <p style="font-style: italic; color: #8B5CF6;"></p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=Thank%20You%20for%20Visiting&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70" alt="Thank You Banner"/>
+</div>
