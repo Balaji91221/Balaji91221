@@ -1,151 +1,178 @@
-<div align="center" style="background: #0D1117; padding: 20px; border-radius: 10px;">
-  <!-- Add tech icons using shields.io or similar services -->
-  <!-- Add circuit board SVG pattern as background -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=190&section=header&text=Welcome%20To%20My%20Profile&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer%20|%20Problem%20Solver&descAlignY=55&descAlign=62" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Kelavath%20Balaji%20Naik&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20AI/ML%20Engineer%20|%20Agentic%20AI%20Specialist&descAlignY=60&descAlign=50" alt="Header"/>
 </div>
-</div>
-<h1 align="center">
-  <span style="background: linear-gradient(90deg, #8B5CF6 0%, #D946EF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Kelavath Balaji Naik | Professional Developer
-  </span>
-</h1>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kelavathbalajinaik/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://kelavathbalaji91221github-io.vercel.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white&color=8B5CF6" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/u/kelavathbalajinaik/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&color=FFA116" alt="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
   <a href="mailto:kelavathbalaji@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335" alt="Email">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Balaji91221&style=for-the-badge&color=8B5CF6" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Balaji91221&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI%2FML+Engineer;Agentic+AI+Specialist;LLM+%26+RAG+Expert;Cloud+Solutions+Architect" alt="Typing SVG" />
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding">
+
+- 🚀 **Full Stack Developer** with expertise in modern web technologies
+- 🤖 **AI/ML Engineer** specializing in LLMs, RAG systems, and Agentic AI
+- 🧠 Experienced in **Supervised, Unsupervised, and Reinforcement Learning**
+- 🔧 Expert in **AI Agent Development** using MCP Architecture
+- 🛠️ Proficient with **Mistral, Claude, Gemini, OpenAI, and OpenRouter APIs**
+- 📊 Building scalable **ML pipelines** and **model fine-tuning** workflows
+- ☁️ Developing **MCP clients/servers** for multi-agent collaboration
+- 🌱 Currently working on **Google ADK Integration** and **Function Tool Development**
+- 📫 Reach me at: **kelavathbalaji@gmail.com**
+
+---
+
+## 🛠️ Technical Skills
+
+### **AI/ML & LLM Technologies**
+<div>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Claude-6B5B95?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude">
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini">
+  <img src="https://img.shields.io/badge/Mistral-FF6B6B?style=for-the-badge&logo=mistral&logoColor=white" alt="Mistral">
+  <img src="https://img.shields.io/badge/LangChain-339933?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace">
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logo=data&logoColor=white" alt="RAG">
+  <img src="https://img.shields.io/badge/Vector_DB-00ADD8?style=for-the-badge&logo=postgresql&logoColor=white" alt="Vector DB">
+</div>
+
+### **ML Frameworks & Libraries**
+<div>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</div>
+
+### **Backend & API Development**
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Uvicorn-FF6B6B?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn">
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic">
+
+  <img src="https://img.shields.io/badge/Starlette-FF6B6B?style=for-the-badge&logo=starlette&logoColor=white" alt="Starlette">
+</div>
+
+### **Web Development**
+<div>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</div>
+
+### **Databases & Cloud**
+<div>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
+
+---
+
+## 🤖 AI/ML Expertise
+
+### **Core Competencies**
+- 🧠 **Machine Learning**: Building models for Supervised, Unsupervised, and Reinforcement Learning
+- 🔧 **Model Fine-Tuning**: Experience with fine-tuning LLMs for domain-specific applications
+- 🤖 **AI Agent Development**: Creating intelligent agents using MCP (Model Context Protocol) Architecture
+- 🔗 **Multi-Agent Systems**: Building MCP clients and servers for agent collaboration
+- 📚 **RAG Systems**: Implementing Retrieval-Augmented Generation for enhanced AI responses
+- 🛠️ **LLM Integration**: Working with Mistral, Claude, Gemini, OpenAI, and OpenRouter APIs
+- 🚀 **API Development**: Building scalable APIs with FastAPI, Uvicorn, and Pydantic
+- 🧩 **Google ADK**: Integration and development with Google Agent Development Kit
+- 🔨 **Tool Development**: Creating Function Tools and Agent-as-a-Tool implementations
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="700" height="400" alt="Skills Animation">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji91221&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak">
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaji91221&theme=algolia&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
+</div>
+
+---
+
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji91221&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph">
+</div>
+
+---
+
+## 🚀 Recent Projects
+
+### 🤖 AI/ML & Agentic AI Projects
+- **Multi-Agent RAG System** - Advanced RAG implementation with multiple specialized agents
+- **LLM Fine-Tuning Pipeline** - Automated pipeline for fine-tuning models on custom datasets
+- **MCP-Based Agent Framework** - Building collaborative AI agents using Model Context Protocol
+- **AI-Powered API Gateway** - FastAPI-based gateway integrating multiple LLM providers
+- **Intelligent Document Processing** - Using Claude and Gemini for advanced document analysis
+
+### 🌐 Full Stack Applications
+- **AI-Enhanced E-commerce Platform** - MERN stack with integrated recommendation engine
+- **Real-time Collaborative AI Tools** - WebSocket-based platform for team AI interactions
+
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Open+Source+Contributor;Tech+Enthusiast" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/kelavathbalajinaik/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:kelavathbalaji@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+  <a href="https://kelavathbalaji91221github-io.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome" alt="Portfolio">
+  </a>
 </div>
+
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<div style="background: linear-gradient(90deg, rgba(147,39,143,0.1) 0%, rgba(234,172,232,0.1) 100%); padding: 16px; border-radius: 12px;">
-  <p>I'm a passionate Full Stack Developer with a strong foundation in building robust and scalable applications. I enjoy solving complex problems and creating efficient solutions that make a difference.</p>
-
-  <ul>
-    <li>🔭 Currently working on enterprise-level web applications</li>
-    <li>🌱 Learning advanced system design and cloud architecture</li>
-    <li>👯 Looking to collaborate on innovative open-source projects</li>
-    <li>💬 Ask me about JavaScript, React, Node.js, or software architecture</li>
-    <li>⚡ Fun fact: I love contributing to open-source projects in my free time</li>
-  </ul>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
-
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Tech Stack
-
-<div align="center">
-  <!-- Frontend -->
-  <p>
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&borderRadius=20px" alt="HTML5">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&borderRadius=20px" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&borderRadius=20px" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&borderRadius=20px" alt="React">
-    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white&borderRadius=20px" alt="Next.js">
-    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&borderRadius=20px" alt="TypeScript">
-    <img src="https://img.shields.io/badge/SASS-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white&borderRadius=20px" alt="SASS">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&borderRadius=20px" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&borderRadius=20px" alt="Redux">
-  </p>
-  
-  <!-- Backend -->
-  <p>
-    <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white&borderRadius=20px" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white&borderRadius=20px" alt="Express.js">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&borderRadius=20px" alt="Java">
-    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white&borderRadius=20px" alt="Python">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white&borderRadius=20px" alt="PHP">
-    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white&borderRadius=20px" alt="GraphQL">
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white&borderRadius=20px" alt="Docker">
-  </p>
-  
-  <!-- Database & Cloud -->
-  <p>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&borderRadius=20px" alt="MongoDB">
-    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white&borderRadius=20px" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&borderRadius=20px" alt="MySQL">
-    <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white&borderRadius=20px" alt="Redis">
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white&borderRadius=20px" alt="AWS">
-    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black&borderRadius=20px" alt="Firebase">
-    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=20px" alt="Vercel">
-  </p>
-  
-  <!-- Tools & Others -->
-  <p>
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&borderRadius=20px" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white&borderRadius=20px" alt="GitHub">
-    <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&borderRadius=20px" alt="VS Code">
-    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white&borderRadius=20px" alt="Figma">
-    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&borderRadius=20px" alt="Linux">
-    <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white&borderRadius=20px" alt="Postman">
-    <img src="https://img.shields.io/badge/Webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black&borderRadius=20px" alt="Webpack">
-    <img src="https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white&borderRadius=20px" alt="Jira">
-  </p>
-</div>
-
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Analytics
-
-<div style="background: linear-gradient(90deg, rgba(139, 92, 246, 0.1) 0%, rgba(217, 70, 239, 0.1) 100%); border-radius: 12px; padding: 20px; margin-bottom: 20px;">
-  <div align="center">
-    <a href="https://github.com/Balaji91221">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaji91221&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6&icon_color=D946EF" alt="Balaji's GitHub stats"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaji91221&layout=compact&theme=radical&bg_color=0D1117&hide_border=true&title_color=8B5CF6" alt="Balaji's top languages"/>
-    </a>
-  </div>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji91221&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&fire=D946EF&currStreakNum=8B5CF6&currStreakLabel=D946EF" alt="GitHub Streak">
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Balaji91221&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies">
-  </p>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Divider">
-</div>
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> Daily Quote
-
-<div align="center" style="background: linear-gradient(90deg, rgba(139, 92, 246, 0.1) 0%, rgba(217, 70, 239, 0.1) 100%); border-radius: 12px; padding: 20px; margin: 0 auto; max-width: 600px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote">
-  <p style="font-style: italic; color: #8B5CF6;"></p>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header&text=Thank%20You%20for%20Visiting&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70" alt="Thank You Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" alt="Footer"/>
 </div>
