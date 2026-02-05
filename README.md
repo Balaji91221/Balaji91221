@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kelavathbalajinaik/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://kelavathbalaji91221github-io.vercel.app/">
+  <a href="https://[kelavathbalaji91221github-io.vercel.app](https://kelavathbalajinaik91221.vercel.app/)/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://leetcode.com/u/kelavathbalajinaik/">
