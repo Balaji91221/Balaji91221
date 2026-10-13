@@ -22,11 +22,48 @@
 <br/>
 
 <p align="center">
+  <a href="#latest-open-source-tools">Latest tools</a> ·
+  <a href="#recent-work">Recent work</a> ·
   <a href="#-who-i-am">About</a> ·
-  <a href="#open-source-developer-tools">Developer tools</a> ·
-  <a href="#-flagship-work">Selected projects</a> ·
   <a href="#-lets-build-something-intelligent">Contact</a>
 </p>
+
+<!-- ══════════════════════════════ LATEST TOOLS ══════════════════════════════ -->
+
+## Latest open-source tools
+
+My seven newest repositories, ordered newest first. Practical tools for testing agent behavior, validating context, and checking software changes — available on npm or PyPI.
+
+| Project | What it helps you do | Install |
+|---|---|---|
+| **[RetrievalCI](https://github.com/Balaji91221/retrievalci)** | Catch retrieval regressions with corpus snapshots, reviewed queries, and evidence-based reports. | [PyPI](https://pypi.org/project/retrievalci/) |
+| **[RepoContract](https://github.com/Balaji91221/repocontract)** | Turn TypeScript architecture rules into executable import-boundary and dependency checks. | [npm](https://www.npmjs.com/package/@kelavathbalajinaik/repocontract) |
+| **[PatchProof](https://github.com/Balaji91221/patchproof)** | Check that a regression test fails before a patch and passes after it, with inspectable evidence. | [PyPI](https://pypi.org/project/patchproof-ai/) |
+| **[FixtureForge](https://github.com/Balaji91221/fixtureforge)** | Give agents repeatable ticket-service simulations with persistent state and explicit success checks. | [npm](https://www.npmjs.com/package/fixtureforge) |
+| **[MemoryLint](https://github.com/Balaji91221/memorylint)** | Find stale repository-memory claims and propose evidence-backed corrections for review. | [PyPI](https://pypi.org/project/memorylint-ai/) |
+| **[BrowserAssert](https://github.com/Balaji91221/browserassert)** | Verify browser-action outcomes on an existing Playwright page with evidence-backed postcondition checks. | [npm](https://www.npmjs.com/package/@kelavathbalajinaik/browserassert) |
+| **[ToolChaos](https://github.com/Balaji91221/toolchaos)** | Inject deterministic tool faults to test how agents recover from failures and missing responses. | [npm](https://www.npmjs.com/package/toolchaos) |
+
+Each repository includes installation steps, examples, and architecture documentation.
+
+---
+
+## Recent work
+
+More recent projects, ordered by repository creation date, newest first.
+
+| Repository | Focus |
+|---|---|
+| **[playground-1](https://github.com/Balaji91221/playground-1)** | Interactive playground for agent-backend concepts, including scheduling, retries, budgets, permissions, and tracing. |
+| **[fabric-agent](https://github.com/Balaji91221/fabric-agent)** | Query a Microsoft Fabric semantic model with DAX through an OpenAI-compatible agent and an inspectable console. |
+| **[agent-platform](https://github.com/Balaji91221/agent-platform)** | Relay: a Next.js and FastAPI workspace for agents, scheduled runs, MCP tools, connectors, and team workflows. |
+| **[glossary](https://github.com/Balaji91221/glossary)** | Search engineering definitions, production failure modes, and deeper explanations in one field manual. |
+| **[ccmeter](https://github.com/Balaji91221/ccmeter)** | Analyze local Claude Code transcripts with cost estimates, project budgets, exports, and a browser dashboard. |
+| **[promptforge](https://github.com/Balaji91221/promptforge)** | Refine prompts and explain improvements in browser chat inputs and coding agents using a shared TypeScript engine. |
+
+[Explore all repositories →](https://github.com/Balaji91221?tab=repositories)
+
+---
 
 <!-- ══════════════════════════════ POSITIONING ══════════════════════════════ -->
 
@@ -197,25 +234,12 @@ flowchart LR
 
 ---
 
-## Open-source developer tools
+<!-- ══════════════════════════════ EARLIER WORK ══════════════════════════════ -->
 
-Tools for making agent integrations, browser automation, and software changes easier to inspect and test. Each repository includes its own installation instructions, examples, and architecture documentation.
+## Earlier work
 
-| Project | Engineering problem |
-|---|---|
-| [ToolChaos](https://github.com/Balaji91221/toolchaos) | Exercise how agents recover from tool failures. |
-| [BrowserAssert](https://github.com/Balaji91221/browserassert) | Check whether browser actions produced the intended result. |
-| [MemoryLint](https://github.com/Balaji91221/memorylint) | Inspect persistent assistant memories for potential inconsistencies. |
-| [FixtureForge](https://github.com/Balaji91221/fixtureforge) | Test agents against stateful simulated services. |
-| [PatchProof](https://github.com/Balaji91221/patchproof) | Check whether a regression test distinguishes a bug from its fix. |
-| [RepoContract](https://github.com/Balaji91221/repocontract) | Check repository changes against declared architecture rules. |
-| [RetrievalCI](https://github.com/Balaji91221/retrievalci) | Detect retrieval regressions as a knowledge base changes. |
-
----
-
-<!-- ══════════════════════════════ FLAGSHIP WORK ══════════════════════════════ -->
-
-## 🚀 Flagship Work
+<details>
+<summary>Explore earlier projects and engineering work</summary>
 
 <table>
 <tr>
@@ -279,6 +303,8 @@ Tools for making agent integrations, browser automation, and software changes ea
 🗂️ [Explore all repositories →](https://github.com/Balaji91221?tab=repositories)
 
 </div>
+
+</details>
 
 ---
 
