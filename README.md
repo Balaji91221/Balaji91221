@@ -21,6 +21,13 @@
 
 <br/>
 
+<p align="center">
+  <a href="#-who-i-am">About</a> ·
+  <a href="#open-source-developer-tools">Developer tools</a> ·
+  <a href="#-flagship-work">Selected projects</a> ·
+  <a href="#-lets-build-something-intelligent">Contact</a>
+</p>
+
 <!-- ══════════════════════════════ POSITIONING ══════════════════════════════ -->
 
 ## ⚡ Who I Am
@@ -187,6 +194,22 @@ flowchart LR
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
+
+---
+
+## Open-source developer tools
+
+Tools for making agent integrations, browser automation, and software changes easier to inspect and test. Each repository includes its own installation instructions, examples, and architecture documentation.
+
+| Project | Engineering problem |
+|---|---|
+| [ToolChaos](https://github.com/Balaji91221/toolchaos) | Exercise how agents recover from tool failures. |
+| [BrowserAssert](https://github.com/Balaji91221/browserassert) | Check whether browser actions produced the intended result. |
+| [MemoryLint](https://github.com/Balaji91221/memorylint) | Inspect persistent assistant memories for potential inconsistencies. |
+| [FixtureForge](https://github.com/Balaji91221/fixtureforge) | Test agents against stateful simulated services. |
+| [PatchProof](https://github.com/Balaji91221/patchproof) | Check whether a regression test distinguishes a bug from its fix. |
+| [RepoContract](https://github.com/Balaji91221/repocontract) | Check repository changes against declared architecture rules. |
+| [RetrievalCI](https://github.com/Balaji91221/retrievalci) | Detect retrieval regressions as a knowledge base changes. |
 
 ---
 
