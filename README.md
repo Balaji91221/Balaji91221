@@ -54,7 +54,7 @@ More recent projects, ordered by repository creation date, newest first.
 
 | Repository | Focus |
 |---|---|
-| **[playground-1](https://github.com/Balaji91221/playground-1)** | Interactive playground for agent-backend concepts, including scheduling, retries, budgets, permissions, and tracing. |
+| **[Agent Systems Lab](https://github.com/Balaji91221/agent-systems-lab)** | Interactive playground for agent-backend concepts, including scheduling, retries, budgets, permissions, and tracing. |
 | **[fabric-agent](https://github.com/Balaji91221/fabric-agent)** | Query a Microsoft Fabric semantic model with DAX through an OpenAI-compatible agent and an inspectable console. |
 | **[agent-platform](https://github.com/Balaji91221/agent-platform)** | Relay: a Next.js and FastAPI workspace for agents, scheduled runs, MCP tools, connectors, and team workflows. |
 | **[glossary](https://github.com/Balaji91221/glossary)** | Search engineering definitions, production failure modes, and deeper explanations in one field manual. |
